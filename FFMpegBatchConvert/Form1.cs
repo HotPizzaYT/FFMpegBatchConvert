@@ -67,8 +67,8 @@ namespace FFMpegBatchConvert
             } else if(vidscale.Text != "" && comboBox1.Text != "")
             {
                 //check if scale and bitrate have been selected
-                MessageBox.Show(vidscale.Text);
-                MessageBox.Show(outputPath);
+                // MessageBox.Show(vidscale.Text);
+                // MessageBox.Show(outputPath);
 
                 // string strCmdText;
 
