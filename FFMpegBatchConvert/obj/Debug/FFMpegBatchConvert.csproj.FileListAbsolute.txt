@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\bin\Debug\FFMpegBatchConvert.exe
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\bin\Debug\FFMpegBatchConvert.pdb
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.Form1.resources
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.exe
+C:\Users\Administrator\source\repos\FFMpegBatchConvert\FFMpegBatchConvert\obj\Debug\FFMpegBatchConvert.pdb
